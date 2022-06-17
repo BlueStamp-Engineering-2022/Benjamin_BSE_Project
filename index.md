@@ -5,7 +5,8 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Benjamin | Cupertino High School | Engineering | Rising Junior
 
-![Headstone Image](https://photos.google.com/share/AF1QipPfXXrUy84d3RworMUQWytms_AhB1PhceeMV76HeIOtnnEISkmCd99oGmAbPtCnKQ/photo/AF1QipO4xOz4onxfgeMlZMRs4V8FGFSvabtwSwq6x5fG?key=blBtb2RCb01sX1hWc04xS3NMREJ0d3FUOWY2eWxB)
+![Headstone Image]
+https://photos.google.com/share/AF1QipPfXXrUy84d3RworMUQWytms_AhB1PhceeMV76HeIOtnnEISkmCd99oGmAbPtCnKQ/photo/AF1QipO4xOz4onxfgeMlZMRs4V8FGFSvabtwSwq6x5fG?key=blBtb2RCb01sX1hWc04xS3NMREJ0d3FUOWY2eWxB
   
 # Final Milestone
 
@@ -24,5 +25,5 @@ This will serve as a brief description of your project. Limit this to three sent
 [![First Milestone]()
 
 # Starter Project Milestone
-w
+The Starter Project that I did was the Useless Machine. Here, I first soldered the switches, led, and resistors onto the circuit board. I also connected the wires on the motors and batteries with the circuit board.
 [![Starter Project Milestone]()
