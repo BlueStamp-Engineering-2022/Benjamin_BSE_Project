@@ -6,7 +6,8 @@ The Metal Detector uses
 | Benjamin | Cupertino High School | Engineering | Rising Junior
 
 ![Headstone Image]
-![BSEphoto](https://user-images.githubusercontent.com/107588607/174402015-23d6372b-3299-4e5b-ae38-5b85eec8a673.JPG)
+![BSEphoto](https://user-images.githubusercontent.com/107588607/174402480-b11bf8b3-0c12-43dc-b338-a652963c8ed0.JPG)
+
   
 # Final Milestone
 
