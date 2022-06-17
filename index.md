@@ -10,19 +10,19 @@ This will serve as a brief description of your project. Limit this to three sent
 # Final Milestone
 
 
-[![Final Milestone](){:target="_blank" rel="noopener"}
+[![Final Milestone]()
 
 # Second Milestone
 
 
-[![Third Milestone](){:target="_blank" rel="noopener"}
+[![Third Milestone]()
 # First Milestone
   
 
 
 
-[![First Milestone](){:target="_blank" rel="noopener"}
+[![First Milestone]()
 
 # Starter Project Milestone
 
-[![Starter Project Milestone](){:target-"_blank' rel="nooperner"}
+[![Starter Project Milestone]()
