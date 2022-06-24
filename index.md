@@ -19,7 +19,8 @@ The Metal Detector uses
 
 [![Third Milestone]()
 # First Milestone
-  
+
+The project that I chose to do was the Metal Detector where it uses a search coil and a circuit to see if there is any metal nearby. The circuit consists of resistors, capacitors, a transmitter, and a piezo buzzer. 
 
 
 
