@@ -16,6 +16,7 @@ The Metal Detector is mainly built with three parts. A search coil, a base, and 
 
 # Second Milestone
 
+After finishing the electric components of the metal detector, I wanted to fully assemble all the parts together to make a fully working metal detector. At first, I was testing out designs that would allow me to comfertably hold the detector with it still working. I used tape to make a prototype of the fully built metal detector. After building a prototype I liked, I went into CAD to 3D design two mounts which would allow me to put the circuit and search coil onto a base without any tape. The search coil mount that I made includes three main shapes, a circle, recangle, and triangle.
 
 # First Milestone
 
