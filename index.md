@@ -11,6 +11,7 @@ The Metal Detector is mainly built with three parts. A search coil, a base, and 
   
 # Final Milestone
 
+Once i fully assembled my metal detector, I wanted to make a few of my own changes to it. First of all, I wanted to be able to manually change the sensitivity of the detector without having to go and change in in the code. The way that I did was was that I used a potentiometer. I connected it to pin A0 where I then coded the SENSITIVITY variable into the value the potentiometer gave. This allowed my just to turn a knob to change the sensitivity.
 
 
 
