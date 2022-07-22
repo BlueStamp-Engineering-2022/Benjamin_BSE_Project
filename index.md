@@ -13,6 +13,7 @@ The Metal Detector is mainly built with three parts. A search coil, a base, and 
 
 Once I fully assembled my metal detector, I wanted to make a few of my own changes to it. First of all, I wanted to be able to manually change the sensitivity of the detector without having to go and change it manually in the code. The way that I did was was that I used a potentiometer. I connected it to pin A0 where I then coded the SENSITIVITY variable into the value the potentiometer gave. This allowed me to just turn a knob to change the sensitivity from interupting every 0 to 1023 oscilations. Another change that I made was installing a larger LED that flashes when the buzzer buzzes. This change was much easier since, all I did was replace the small LED that was already installed on the protoshield to a new and larger LED.
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1658521045/video_to_markdown/images/youtube--p0N1wCRUJes-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=p0N1wCRUJes&ab_channel=BlueStampEng "")
 
 
 # Second Milestone
